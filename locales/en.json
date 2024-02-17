@@ -1,0 +1,54 @@
+{
+    "game_title": "FG Template",
+
+    "screenLoading_text": "Initializing game...",
+    
+    "screenError_text": "An error occured during game loading",
+    "screenError_info1": "To ask for help, you can contact Freddec on Discord with the following data",
+    "screenError_info2": "Alternatively, you can wipe your local data to restart the game from the beginning",
+    "screenError_exportSave": "Copy",
+    "screenError_downloadSave": "Download",
+    "screenError_wipeSave": "Wipe",
+    
+    "screenGame_disclaimer": "This is a prototype. Development is still in progress. Data loss and reset could happen.",
+    "screenGame_tabGame": "Game",
+    "screenGame_tabOptions": "Options",
+    
+    "tabOptions_about": "About",
+    "tabOptions_iconsBy": "Icons provided by",
+    "tabOptions_love": "This game has been designed and built with all the love in the world by Freddec.",
+    "tabOptions_patreon": "Become a supporter",
+    "tabOptions_kofi": "Buy me a Ko-fi",
+    "tabOptions_paypal": "Make a donation",
+    "tabOptions_discord": "Discord",
+    "tabOptions_options": "Options",
+    "tabOptions_language": "Language",
+    "tabOptions_localData": "Local data",
+    "tabOptions_exportSave": "Copy",
+    "tabOptions_downloadSave": "Download",
+    "tabOptions_importSave": "Import",
+    "tabOptions_wipeSave": "Wipe",
+    
+    "toast_close": "Close",
+    "toast_export": "Local data copied in clipboard!",
+    "toast_manualSave": "Data saved in local storage!",
+    "toast_importEmpty": "No data to import!",
+    "toast_importCorrupted": "Data corrupted!",
+
+    "modalWipe_title": "Wipe Local Data",
+    "modalWipe_text": "Are you sure to want to wipe your local data?",
+    "modalWipe_info": "You will lose all your progression and restart from the beginning.",
+    "modalWipe_close": "Wipe",
+
+    "modalOffline_title": "Offline Gains",
+    "modalOffline_text": "Welcome back!",
+    "modalOffline_info": "You were away for",
+    "modalOffline_close": "Close",
+    
+    "modalVictory_title": "Victory",
+    "modalVictory_subTitle": "Congratulations",
+    "modalVictory_text": "You beat the game!",
+    "modalVictory_close": "Close",
+    
+    "word_playedTime": "Played time",
+}

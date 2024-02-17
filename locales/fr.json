@@ -1,0 +1,54 @@
+{
+    "game_title": "FG Template",
+
+    "screenLoading_text": "Chargement...",
+    
+    "screenError_text": "Une erreur s'est produite lors du chargement du jeu",
+    "screenError_info1": "Pour demander de l'aide, vous pouvez contacter Freddec sur Discord avec les données suivantes",
+    "screenError_info2": "Alternativement, vous pouvez effacer vos données locales pour redémarrer le jeu depuis le début",
+    "screenError_exportSave": "Copier",
+    "screenError_downloadSave": "Télécharger",
+    "screenError_wipeSave": "Effacer",
+    
+    "screenGame_disclaimer": "Ceci est un prototype. Le développement est toujours en cours. Des pertes de données et des réinitialisations pourraient survenir.",
+    "screenGame_tabGame": "Jeu",
+    "screenGame_tabOptions": "Options",
+    
+    "tabOptions_about": "A propos",
+    "tabOptions_iconsBy": "Icônes fournies par",
+    "tabOptions_love": "Ce jeu a été conçu et construit avec tout l'amour du monde par Freddec.",
+    "tabOptions_patreon": "Devenez supporter",
+    "tabOptions_kofi": "Achetez-moi un Ko-fi",
+    "tabOptions_paypal": "Faire un don",
+    "tabOptions_discord": "Discord",
+    "tabOptions_options": "Options",
+    "tabOptions_language": "Langue",
+    "tabOptions_localData": "Données locales",
+    "tabOptions_exportSave": "Copier",
+    "tabOptions_downloadSave": "Télécharger",
+    "tabOptions_importSave": "Importer",
+    "tabOptions_wipeSave": "Effacer",
+    
+    "toast_close": "Fermer",
+    "toast_export": "Données locales copiées dans le presse-papiers !",
+    "toast_manualSave": "Données enregistrées dans le stockage local !",
+    "toast_importEmpty": "Aucune donnée à importer !",
+    "toast_importCorrupted": "Données corrompues !",
+
+    "modalWipe_title": "Effacer les données locales",
+    "modalWipe_text": "Êtes-vous sûr de vouloir effacer vos données locales ?",
+    "modalWipe_info": "Vous perdrez votre progression dans sa globalité et recommencerez depuis le début.",
+    "modalWipe_close": "Effacer",
+
+    "modalOffline_title": "Gains hors-ligne",
+    "modalOffline_text": "Bon retour !",
+    "modalOffline_info": "Vous avez été hors-ligne pendant",
+    "modalOffline_close": "Fermer",
+    
+    "modalVictory_title": "Victoire",
+    "modalVictory_subTitle": "Félicitations",
+    "modalVictory_text": "Vous avez vaincu je jeu!",
+    "modalVictory_close": "Fermer",
+    
+    "word_playedTime": "Temps de jeu",
+}
