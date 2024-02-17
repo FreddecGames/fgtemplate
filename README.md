@@ -3,7 +3,8 @@
 ## Features
 
 ```bash
-- Nuxt 3 (Vue 3 Framework) 
+- Nuxt 3 (Vue 3 Framework)
+- i18n for Nuxt for translations
 - Pinia store
 - Bootstrap 5
 - Font Awesome 6
