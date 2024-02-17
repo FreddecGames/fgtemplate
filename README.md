@@ -1,6 +1,13 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Vue Boilerplate by Freddec
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Features
+
+```bash
+- Nuxt 3 (Vue 3 Framework) 
+- Pinia store
+- Bootstrap 5
+- Font Awesome 6
+```
 
 ## Setup
 
@@ -71,5 +78,7 @@ yarn preview
 # bun
 bun run preview
 ```
+
+Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
